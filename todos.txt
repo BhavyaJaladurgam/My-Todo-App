@@ -1,0 +1,7 @@
+understanding
+open-source
+coding
+list,tuples,sets,dict
+developed the desktop GUI
+Developing the web app
+Completed the 1st Web App
